@@ -1,5 +1,5 @@
 L1 = ["Kim","111-2222","seoul"]
-L2 = ["lee","222-3333","Cheon-an"]
+L2 = ["lee","222-3333","Hawai"]
 L3 = ["park","333-4444","daegue"]
 L4 = ["choi","444-5555","busan"]
 L5 = ["hong","555-6666","jeju"]
